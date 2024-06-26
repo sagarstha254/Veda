@@ -1,0 +1,25 @@
+{
+  "name": "veda-internship",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@adminjs/express": "^6.1.0",
+    "@adminjs/typeorm": "^5.0.1",
+    "@prisma/client": "^5.16.0",
+    "@types/node": "^20.14.9",
+    "adminjs": "^7.8.2",
+    "axios": "^1.7.2",
+    "express": "^4.19.2",
+    "pg": "^8.12.0",
+    "prisma": "^5.16.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.2"
+  }
+}
